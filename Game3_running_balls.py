@@ -6,7 +6,7 @@ import random
 import time
 import sys
 
-print('按上下左右键控制你的火柴人')
+print('按上下左右键控制你的火柴人:')
 time_start = time.time()
 
 class Game:
